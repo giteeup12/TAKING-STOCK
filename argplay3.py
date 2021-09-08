@@ -17,3 +17,4 @@ stock_name = str(sys.argv[1])
 print('arg: ', str(stock_name))
 stock_price = stock_list[str(sys.argv[1])]
 print('stock price of {0} is {1}'.format(stock_name,stock_price))
+print('new edit')
