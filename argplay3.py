@@ -1,3 +1,18 @@
+#create my stock file
+#open my stock file
+#read my stock file into list
+#perform until eof 
+#read my stock file into list
+#end-perform
+#close my stock file
+#open stock file
+#  read stock into dictionary 
+#perform until eof
+# - move line into dictionary: key stock name value price
+# read stock into dictionary 
+#end-perform
+#read list of my stocks
+
 import sys
 print ('hello')
 print('arg: ', str(sys.argv[0]))
